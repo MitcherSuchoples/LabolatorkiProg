@@ -68,8 +68,8 @@ std::string readuntil(std::ifstream& fin, char end = '\r') {
     return s;
 }
 
-int end = -1; // сохраняет последнюю позицию в строке
-int lastEndSize = 1; // сохраняет кол-во знаков
+int end = -1; 
+int lastEndSize = 1; 
 
 std::string readuntilstr(std::string str, std::string endStr) {
     int begin = end + lastEndSize;
@@ -94,7 +94,7 @@ int main()
         exit(1);
     }
 
-    std::ofstream fout("вывод.txt");
+    std::ofstream fout("результат.txt");
     std::string line;
     readuntil(fin, '\r');
 
