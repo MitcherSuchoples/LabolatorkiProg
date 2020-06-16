@@ -315,7 +315,7 @@ bool updateGame(Game* game)
 }
 ```
 
-2. Второй файл, вспомогательный. Содержит основные функции 
+2. Второй файл [main.cpp](https://github.com/MitcherSuchoples/LabolatorkiProg/blob/master/Lab4/main.cpp), вспомогательный. Содержит основные функции 
 
 ```C++
 
