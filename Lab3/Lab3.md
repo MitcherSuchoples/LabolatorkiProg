@@ -79,7 +79,7 @@ short Byte = 0;
 char text[3500]; 
 bool end = false;
 
-
+```C++
 
 int main()
 {
@@ -136,6 +136,8 @@ int main()
 
 	std::cout << text << "\n";
 }
+ 
+ ```
  
 После компеляции получил следующее сообщение:
  
