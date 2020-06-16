@@ -344,7 +344,7 @@ int main()
 
 ```
 
-3. Третий файл, связующий.
+3. Третий файл [KandNgame.h](https://github.com/MitcherSuchoples/LabolatorkiProg/blob/master/Lab4/KandNgame.h), связующий.
 
 ```C++
 #pragma once
