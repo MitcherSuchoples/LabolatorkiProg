@@ -204,7 +204,7 @@ int main()
 } 
 ```
 
-Полученный результат:
+[Полученный результат:](https://github.com/MitcherSuchoples/LabolatorkiProg/blob/master/Lab5/Результат.txt)
 
 Аргумент | Результат
 --- | ---|
