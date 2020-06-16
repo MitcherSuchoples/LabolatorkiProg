@@ -34,8 +34,8 @@
 
 ```C++
 
-#i#include <iostream>
-nclude <ctime>
+#include <iostream>
+#include <ctime>
 #include "KandNgame.h"
 
 
