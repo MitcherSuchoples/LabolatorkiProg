@@ -32,7 +32,7 @@
 
 1.Файл первый, реализующий игру «Иксики-нолики» используя функции  в вспомогательном файле:
 
-```
+```C++
 
 #i#include <iostream>
 nclude <ctime>
@@ -317,7 +317,7 @@ bool updateGame(Game* game)
 
 2. Второй файл, вспомогательный. Содержит основные функции 
 
-```
+```C++
 
 #include <iostream>
 #include "KandNgame.h"
@@ -346,7 +346,7 @@ int main()
 
 3. Третий файл, связующий.
 
-```
+```C++
 #pragma once
 
 enum Status
