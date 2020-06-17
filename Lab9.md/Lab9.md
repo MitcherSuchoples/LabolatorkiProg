@@ -49,6 +49,7 @@
 3.Произвел настройку и подключение проекта 
 
 ```C++
+
 include(gtest_dependency.pri)
 
 TEMPLATE = app
@@ -68,6 +69,7 @@ SOURCES += \
         main.cpp
 
 INCLUDEPATH += E:\LabQT\ProjectT
+
 ```
 
 4.После настройки запустил код и получил результаты:
@@ -84,11 +86,13 @@ INCLUDEPATH += E:\LabQT\ProjectT
 
 Для решения ошибки можно использовать код:
 
-```
+```C++
+
 DoorStatus LockController::lockDoor()
 {
     return latch->close();
 }
+
 ```
 
 **Вывод:** В ходе данной лабораторной работы я ознакомился с Google Test и Google Mock Framework, научилась тестировать классы в среде разработки Qt Creator.
