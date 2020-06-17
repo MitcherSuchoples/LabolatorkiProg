@@ -55,7 +55,7 @@
 
 При ручном вводе данных код лдя данной функции будет выглядеть таки образом:
 
-```
+```C++
 #include <iostream>
 #include <math.h>
 #include <stdio.h>
@@ -87,7 +87,7 @@ int main() {
 ```
 Код с данными параметрами в задичи будет выглядеть таки обрзом:
 
-```
+```C++
 #include <iostream>
 #include <math.h>
 #include <stdio.h>
