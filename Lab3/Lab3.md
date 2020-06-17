@@ -71,6 +71,8 @@
 
 9. Для декодирования использовал слкдующий код:
 
+```C++
+
 #include <iostream>
 #include "libbmp.h"
 
@@ -79,7 +81,7 @@ short Byte = 0;
 char text[3500]; 
 bool end = false;
 
-```C++
+
 
 int main()
 {
